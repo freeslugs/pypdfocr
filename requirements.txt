@@ -1,5 +1,4 @@
-pillow>=2.2
-reportlab>=2.7
-watchdog>=0.6.0
-pypdf2>=1.23
--e git+https://github.com/evernote/evernote-sdk-python3.git#egg=evernote
+evernote==1.25.0
+oauthlib==2.0.0
+requests==2.11.1
+requests-oauthlib==0.6.2
